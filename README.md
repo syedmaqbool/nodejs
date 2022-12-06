@@ -1,5 +1,5 @@
 # nodejs
-nodejs boilerplate
+nodejs boilerplate with JWT authentication
 
 using Node 16.10.0
 
